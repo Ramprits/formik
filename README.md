@@ -1,2 +1,0 @@
-# formik
-Created with CodeSandbox
